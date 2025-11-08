@@ -1,4 +1,6 @@
-Python Job Scraper + Django REST API Project Summary
+Python Job Scraper + Django REST API 
+
+Project Summary
 This project is a complete Django-based web application that demonstrates data scraping, database integration, and RESTful API development. The system scrapes job listings from python.org, stores them in a database, and provides access via a Django REST API with user authentication.
 
 
