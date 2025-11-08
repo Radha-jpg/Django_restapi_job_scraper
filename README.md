@@ -3,6 +3,7 @@ This project is a complete Django-based web application that demonstrates data s
 
 
 Key Features
+
 • Web scraping using BeautifulSoup and Requests library.
 
 • Job data stored in SQLite database through Django ORM.
